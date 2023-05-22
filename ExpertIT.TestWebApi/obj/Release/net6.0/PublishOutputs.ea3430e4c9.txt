@@ -1,0 +1,11 @@
+C:\Users\skbera\source\repos\ExpertIT.TestWebApp\ExpertIT.TestWebApi\obj\Docker\publish\ExpertIT.TestWebApi.exe
+C:\Users\skbera\source\repos\ExpertIT.TestWebApp\ExpertIT.TestWebApi\obj\Docker\publish\appsettings.Development.json
+C:\Users\skbera\source\repos\ExpertIT.TestWebApp\ExpertIT.TestWebApi\obj\Docker\publish\appsettings.json
+C:\Users\skbera\source\repos\ExpertIT.TestWebApp\ExpertIT.TestWebApi\obj\Docker\publish\ExpertIT.TestWebApi.dll
+C:\Users\skbera\source\repos\ExpertIT.TestWebApp\ExpertIT.TestWebApi\obj\Docker\publish\ExpertIT.TestWebApi.deps.json
+C:\Users\skbera\source\repos\ExpertIT.TestWebApp\ExpertIT.TestWebApi\obj\Docker\publish\ExpertIT.TestWebApi.runtimeconfig.json
+C:\Users\skbera\source\repos\ExpertIT.TestWebApp\ExpertIT.TestWebApi\obj\Docker\publish\ExpertIT.TestWebApi.pdb
+C:\Users\skbera\source\repos\ExpertIT.TestWebApp\ExpertIT.TestWebApi\obj\Docker\publish\Microsoft.OpenApi.dll
+C:\Users\skbera\source\repos\ExpertIT.TestWebApp\ExpertIT.TestWebApi\obj\Docker\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\skbera\source\repos\ExpertIT.TestWebApp\ExpertIT.TestWebApi\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\skbera\source\repos\ExpertIT.TestWebApp\ExpertIT.TestWebApi\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
